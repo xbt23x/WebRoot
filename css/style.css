@@ -1,0 +1,12 @@
+.bio{
+    column-count: 2;
+    column-span: 4;
+    column-gap: 40px;
+    column-rule-style: solid;
+    background-color: lightblue;
+    border: solid;
+}
+.profile{
+    border:solid;
+    background-color: lightblue;
+}
